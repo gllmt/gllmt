@@ -1,8 +1,9 @@
 ###
-Hi, i'm [Pierre Guillemot](https://pierreguillemot.com/), a web developer specializing in the creation of web experiences, I focus on the design of tailor-made, unique, intuitive websites.
+Hi, i'm [Pierre Guillemot](https://pierreguillemot.com/), <br>A developer specializing in web experiences,<br> 
+I focus on the design of tailor-made, unique, intuitive websites.
 <br />
 <br />
-- 💼 Freelance work? [email](mailto:contact@pierreguillemot.com)
+- 💼 Freelance work? [Email me](mailto:contact@pierreguillemot.com)
 
 <br />
 
