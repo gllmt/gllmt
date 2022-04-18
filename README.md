@@ -25,12 +25,13 @@ I focus on the design of tailor-made, unique, intuitive websites.
 <br />
 **Social:**  
 
+<a href="https://www.linkedin.com/in/gllmt/">
+  <img align="left" alt="Pierre LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 <a href="https://www.instagram.com/pierre.digital/">
   <img align="left" alt="Pierre Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://twitter.com/pgllmt">
   <img align="left" alt="Pierre Gllmt | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/gllmt/">
-  <img align="left" alt="Pierre LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
