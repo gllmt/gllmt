@@ -1,5 +1,5 @@
 ###
-Hi, i'm [Pierre Guillemot](https://pierreguillemot.com/), <br>A developer specializing in web experiences,<br> 
+Hi, i'm [Pierre Guillemot](https://pierreguillemot.com/), <br>A front-end developer specializing in web experiences,<br> 
 I focus on the design of tailor-made, unique, intuitive websites.
 <br />
 <br />
