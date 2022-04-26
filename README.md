@@ -9,7 +9,7 @@ I focus on the design of tailor-made, unique, intuitive websites.
 
 **languages and tools:**  
 
-<code><a href="https://developer.mozilla.org/fr/docs/Web/HTML"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
+<code><a href="https://fr.wikipedia.org/wiki/HTML5"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
 <code><a href="https://developer.mozilla.org/fr/docs/Web/CSS"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a></code>
 <code><a href="https://sass-lang.com/"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></a></code>
 <code><a href="https://developer.mozilla.org/fr/docs/Web/JavaScript"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
