@@ -1,4 +1,6 @@
-###
+<br />
+
+# About me :
 Hi, i'm [Pierre Guillemot](https://pierreguillemot.com/), <br>A front-end developer specializing in web experiences,<br> 
 I focus on the design of tailor-made, unique, intuitive websites.
 <br />
@@ -56,3 +58,6 @@ I focus on the design of tailor-made, unique, intuitive websites.
   <img align="left" alt="Pierre Gllmt | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
+<br />
+<br />
+<br />
