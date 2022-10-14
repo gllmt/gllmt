@@ -4,9 +4,9 @@
 Hi, i'm [Pierre Guillemot](https://pierreguillemot.com/), <br>A front-end developer specializing in web experiences,<br> 
 I focus on the design of tailor-made, unique, intuitive websites.
 <br />
-
+<!---
 - 💼 Freelance work? [Email me](mailto:contact@pierreguillemot.com)
-
+-->
 <br />
 
 ## languages and tools :
