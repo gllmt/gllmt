@@ -49,13 +49,13 @@ I focus on the design of tailor-made, unique, intuitive websites.
 ## Social links :
 
 <a href="https://www.linkedin.com/in/gllmt/">
-  <img align="left" alt="Pierre LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Pierre LinkedIN" width="22px" src="https://res.cloudinary.com/dxgf6ohvo/image/upload/v1689873046/Perso/linkedIn_logo_bgw7ye.png" />
 </a>
 <a href="https://www.instagram.com/pierre.digital/">
-  <img align="left" alt="Pierre Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Pierre Instagram" width="22px" src="https://res.cloudinary.com/dxgf6ohvo/image/upload/v1689873046/Perso/instagram_logo_s4bnhb.png" />
 </a>
 <a href="https://twitter.com/pgllmt">
-  <img align="left" alt="Pierre Gllmt | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Pierre Gllmt | Twitter" width="22px" src="https://res.cloudinary.com/dxgf6ohvo/image/upload/v1689873046/Perso/logo_of_twitter_dmi05s.png" />
 </a>
 
 <br />
