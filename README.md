@@ -33,7 +33,7 @@ I focus on the design of tailor-made, unique, intuitive websites.
 
 <a href="https://reactjs.org/"><img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/></a>
 
-<a href="https://www.gatsbyjs.com/"><img align="left" width="30px" src="https://camo.githubusercontent.com/b0972dd62bbf6ee0e28ed0ebceb48427a481568caeeb639066b23c754f0c60e5/68747470733a2f2f7777772e6761747362796a732e636f6d2f4761747362792d4d6f6e6f6772616d2e737667"/></a>
+<a href="https://nextjs.org"><img align="left" width="30px" src="https://camo.githubusercontent.com/b0972dd62bbf6ee0e28ed0ebceb48427a481568caeeb639066b23c754f0c60e5/68747470733a2f2f7777772e6761747362796a732e636f6d2f4761747362792d4d6f6e6f6772616d2e737667"/></a>
 
 <a href="https://greensock.com/gsap/"><img align="left" width="30px" src="https://greensock.com/uploads/monthly_2020_03/tweenmax.png.cf27916e926fbb328ff214f66b4c8429.png"/></a>
 
