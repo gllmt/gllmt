@@ -51,7 +51,7 @@ I focus on the design of tailor-made, unique, intuitive websites.
 <a href="https://www.linkedin.com/in/gllmt/">
   <img align="left" alt="Pierre LinkedIN" width="22px" src="https://res.cloudinary.com/dxgf6ohvo/image/upload/v1689873046/Perso/linkedIn_logo_bgw7ye.png" />
 </a>
-<a href="[https://www.instagram.com/pierre.digital/](https://www.instagram.com/pierre.developer/)">
+<a target="_blank" href="https://www.instagram.com/pierre.developer/">
   <img align="left" alt="Pierre Instagram" width="22px" src="https://res.cloudinary.com/dxgf6ohvo/image/upload/v1689873046/Perso/instagram_logo_s4bnhb.png" />
 </a>
 <a href="https://twitter.com/pgllmt">
