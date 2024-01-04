@@ -29,7 +29,7 @@ I focus on the design of tailor-made, unique, intuitive websites.
 
 <a href="https://vuejs.org/"><img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/></a>
 
-<a href="https://vitejs.dev/"><img align="left" width="30px" src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667"/></a>
+<a href="https://vitejs.dev/"><img align="left" width="30px" src="https://camo.githubusercontent.com/2e1efd50b61f26c56e82929d735dce115937350e280abac98641c79d765da27c/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667"/></a>
 
 <a href="https://reactjs.org/"><img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/></a>
 
@@ -51,11 +51,8 @@ I focus on the design of tailor-made, unique, intuitive websites.
 <a href="https://www.linkedin.com/in/gllmt/">
   <img align="left" alt="Pierre LinkedIN" width="22px" src="https://res.cloudinary.com/dxgf6ohvo/image/upload/v1689873046/Perso/linkedIn_logo_bgw7ye.png" />
 </a>
-<a target="_blank" href="https://www.instagram.com/pierre.developer/">
-  <img align="left" alt="Pierre Instagram" width="22px" src="https://res.cloudinary.com/dxgf6ohvo/image/upload/v1689873046/Perso/instagram_logo_s4bnhb.png" />
-</a>
-<a href="https://twitter.com/pgllmt">
-  <img align="left" alt="Pierre Gllmt | Twitter" width="22px" src="https://res.cloudinary.com/dxgf6ohvo/image/upload/v1689873046/Perso/logo_of_twitter_dmi05s.png" />
+<a target="_blank" href="https://read.cv/pierreg">
+  <img align="left" alt="Pierre Read cv" width="22px" src="https://res.cloudinary.com/dxgf6ohvo/image/upload/v1704403152/Perso/image_hz9wkt.svg" />
 </a>
 
 <br />
