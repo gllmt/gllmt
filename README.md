@@ -1,8 +1,8 @@
 <br />
 
 # About me :
-Hi, i'm [Pierre Guillemot](https://pierreguillemot.com/), <br>Front-end developper with 6+ years of experience, specializing in web development, <br>
-I focus on bespoke website development, unique, intuitive and performance.
+Hi, i'm [Pierre Guillemot](https://pierreguillemot.com/), <br>Front-end developer with more than 6 years of experience, specialized in web development, <br>
+I focus on the development of unique, intuitive and high-performance custom websites.
 <br />
 <!---
 - 💼 Freelance work? [Email me](mailto:contact@pierreguillemot.com)
