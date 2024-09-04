@@ -29,6 +29,9 @@ I focus on the development of unique, intuitive and high-performance custom webs
 <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript"><img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 </a>
 
+<a href="https://www.typescriptlang.org/docs/"><img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png?20221110153201"/>
+</a>
+
 <a href="https://vitejs.dev/"><img align="left" width="30px" src="https://camo.githubusercontent.com/118beaba8872ecd1cc0fa048abc853d8a1717a549bd2627eade643e4a5fd66d3/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667"/></a>
 
 <a href="https://reactjs.org/"><img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/></a>
