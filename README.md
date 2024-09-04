@@ -42,7 +42,7 @@ I focus on the development of unique, intuitive and high-performance custom webs
 
 <a href="https://greensock.com/gsap/"><img align="left" width="30px" src="https://assets.codepen.io/16327/internal/avatars/users/default.png?fit=crop&format=auto&height=256&version=1697554632&width=256"/></a>
 
-<a href="https://github.com/framer/motion"><img align="left" width="30px" src="https://i.ibb.co/JQx2CXZ/framer-motion.jpg"/></a>
+<a href="https://github.com/framer/motion"><img align="left" width="30px" src="https://image.noelshack.com/minis/2024/36/3/1725471572-framer-motion.png"/></a>
 
 <a href="https://graphql.org/"><img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" /></a>
 
