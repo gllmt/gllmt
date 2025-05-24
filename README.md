@@ -9,6 +9,12 @@ I focus on the development of unique, intuitive and high-performance custom webs
 -->
 <br />
 
+## 📊 GitHub Metrics :
+
+![Metrics](https://github.com/gllmt/gllmt/blob/main/github-metrics.svg)
+
+<br />
+
 ## Languages and tools :
 
 <a href="https://fr.wikipedia.org/wiki/HTML5">
