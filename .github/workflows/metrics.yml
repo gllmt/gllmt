@@ -18,23 +18,23 @@ jobs:
           # Options
           user: gllmt
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, community, repositories, metadata
           config_timezone: Europe/Paris
 
-          # Plugin achievements
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
+          # Plugin achievements - DISABLED
+          # plugin_achievements: yes
+          # plugin_achievements_display: detailed
+          # plugin_achievements_secrets: yes
+          # plugin_achievements_threshold: C
 
-          # Plugin activity
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_visibility: all
-          plugin_activity_timestamps: yes
+          # Plugin activity - DISABLED
+          # plugin_activity: yes
+          # plugin_activity_limit: 5
+          # plugin_activity_load: 300
+          # plugin_activity_days: 14
+          # plugin_activity_filter: all
+          # plugin_activity_visibility: all
+          # plugin_activity_timestamps: yes
 
           # Plugin calendar
           plugin_isocalendar: yes
@@ -60,11 +60,11 @@ jobs:
           plugin_repositories_affiliations: owner
           plugin_repositories_batch: 100
 
-          # Plugin stargazers
-          plugin_stargazers: yes
-          plugin_stargazers_charts: yes
-          plugin_stargazers_charts_type: classic
+          # Plugin stargazers - DISABLED
+          # plugin_stargazers: yes
+          # plugin_stargazers_charts: yes
+          # plugin_stargazers_charts_type: classic
 
-          # Plugin stars
-          plugin_stars: yes
-          plugin_stars_limit: 4 
+          # Plugin stars - DISABLED
+          # plugin_stars: yes
+          # plugin_stars_limit: 4 
