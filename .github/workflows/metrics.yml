@@ -58,7 +58,7 @@ jobs:
           # Plugin repositories
           plugin_repositories: yes
           plugin_repositories_affiliations: owner
-          plugin_repositories_batch: 100
+          repositories_batch: 100
 
           # Plugin stargazers - DISABLED
           # plugin_stargazers: yes
