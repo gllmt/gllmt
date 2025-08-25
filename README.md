@@ -64,9 +64,6 @@ I focus on the development of unique, intuitive and high-performance custom webs
 <a href="https://www.linkedin.com/in/gllmt/">
   <img align="left" alt="Pierre LinkedIN" width="22px" src="https://res.cloudinary.com/dxgf6ohvo/image/upload/v1689873046/Perso/linkedIn_logo_bgw7ye.png" />
 </a>
-<a target="_blank" href="https://read.cv/pierreg">
-  <img align="left" alt="Pierre Read cv" width="22px" src="https://res.cloudinary.com/dxgf6ohvo/image/upload/v1704403152/Perso/image_hz9wkt.svg" />
-</a>
 
 <br />
 <br />
