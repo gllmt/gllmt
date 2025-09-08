@@ -2,9 +2,12 @@ name: Metrics
 on:
   # Schedule updates (every Sunday at 00:00)
   schedule: [{cron: "0 0 * * 0"}]
-  # Manual trigger and push trigger
+  # Manual trigger only
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+  # Only on metrics config changes
+  push: 
+    branches: ["master", "main"]
+    paths: [".github/workflows/metrics.yml"]
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -12,7 +15,7 @@ jobs:
       contents: write
       actions: read
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@b4c92ee7692c1322d38d9d56e4d9f04d28a9e9a8 # v3.34
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
