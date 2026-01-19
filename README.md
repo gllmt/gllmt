@@ -1,9 +1,3 @@
-<br />
-<!---
-![Metrics](https://github.com/gllmt/gllmt/blob/main/github-metrics.svg)
--->
-<br />
-
 # About me :
 Hi, i'm [Pierre Guillemot](https://pierreguillemot.com/), <br>Senior Front-end developer with more than 10 years of experience, specialized in web development, <br>
 I focus on the development of unique, intuitive and high-performance custom websites.
