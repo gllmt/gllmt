@@ -1,7 +1,7 @@
 <br />
-
+<!---
 ![Metrics](https://github.com/gllmt/gllmt/blob/main/github-metrics.svg)
-
+-->
 <br />
 
 # About me :
