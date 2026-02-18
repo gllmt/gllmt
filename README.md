@@ -1,6 +1,6 @@
 # About me :
 Hi, i'm [Pierre Guillemot](https://pierreguillemot.com/), <br>Senior Frontend Engineer with more than 10 years of experience, specialized in web development, <br>
-I focus on the development of unique, intuitive and high-performance custom websites.
+I focus on the development of unique, intuitive and high-performance custom web apps.
  
 ## Social links :
 <a href="https://www.linkedin.com/in/gllmt/">
